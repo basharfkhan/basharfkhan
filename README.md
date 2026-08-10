@@ -52,6 +52,9 @@ A Data Scientist on a adventuring through the world of Data and exploring the In
 🔹 [**Data Science Salary Prediction**](https://github.com/basharfkhan/DS_Salary_Project)  
 Created a Model to predict the salary of Data Science jobs in a given location based on the data scraped from Glassdoor.
 
+🔹 [**Medallion_Architecture_for_Stock_Market_Data**](https://github.com/basharfkhan/Medallion_Architecture_for_Stock_Market_Data)  
+Implemented a Medallion Architecture for Stock Market Data to faciliate Analysis.
+ 
 🔹 [**Hospital Readmission Prediction**](https://github.com/basharfkhan/Hospital_Readmission_Prediciton)  
 Built ML models to predict hospital readmission using UCI's diabetes dataset. Evaluated models in Google Colab.
 
