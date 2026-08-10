@@ -49,14 +49,14 @@ A Data Scientist on a adventuring through the world of Data and exploring the In
 
 ## 📊 Featured Projects
 
-🔹 [**World Layoffs Analysis**](https://github.com/basharfkhan/EDA_of_World_Layoffs)  
-Analyzed global layoff trends using MySQL and visualized insights via an interactive Tableau dashboard.
-
 🔹 [**Data Science Salary Prediction**](https://github.com/basharfkhan/DS_Salary_Project)  
 Created a Model to predict the salary of Data Science jobs in a given location based on the data scraped from Glassdoor.
 
 🔹 [**Hospital Readmission Prediction**](https://github.com/basharfkhan/Hospital_Readmission_Prediciton)  
 Built ML models to predict hospital readmission using UCI's diabetes dataset. Evaluated models in Google Colab.
+
+🔹 [**World Layoffs Analysis**](https://github.com/basharfkhan/EDA_of_World_Layoffs)  
+Analyzed global layoff trends using MySQL and visualized insights via an interactive Tableau dashboard.
 
 ---
 
