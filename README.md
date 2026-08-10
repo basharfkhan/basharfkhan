@@ -73,7 +73,7 @@ Built ML models to predict hospital readmission using UCI's diabetes dataset. Ev
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/basharfarooqkhan/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:bashar28nov@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/basharfkhan)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=googlechrome&logoColor=white&style=flat)]()
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=googlechrome&logoColor=white&style=flat)](https://www.basharkhan.dev)
 
 
 
