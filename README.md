@@ -67,7 +67,7 @@ Analyzed global layoff trends using MySQL and visualized insights via an interac
 
 - [MITx 6.00.1x – Intro to CS & Python (edX)](https://courses.edx.org/certificates/6b940cf5d6044ea3a4a912f7ca3eb962)  
 - [Java Programming – MOOC.fi, Univ. of Helsinki](https://certificates.mooc.fi/validate/djx4q1ebq5g)  
-- Toastmasters: Visionary Communication Level 1
+- Toastmasters: Visionary Communication Level 2
 
 ---
 
