@@ -18,7 +18,7 @@
 
 ---
 
-A Data Scientist on a adventuring through the world of Data and exploring the Insights it can provide.  With hands-on experience in Python, SQL, Machine Learning, and Data Visualization, I've built projects ranging from **Predicting Hospital Readmissions** to **Interactive Dashboards** and **Real-Time Data Pipelines** used for **Medallion and Lambda Architectures** and an end to end **DS_Salary_Project**.
+A Data Scientist adventuring through the world of Data and turning Data into Decisions .  With hands-on experience in Python, SQL, Machine Learning, and Data Visualization, I've built projects ranging from **Predicting Hospital Readmissions** to **Interactive Dashboards** and **Real-Time Data Pipelines** used for **Medallion and Lambda Architectures** and an End-to-End **DS_Salary_Project**.
 
 ---
 
